@@ -11,46 +11,45 @@ Whether you're a developer, architect, or cloud enthusiast, this curated list pr
 Stay up-to-date with the latest services, features, and documentation, making your multi-cloud journey smoother than ever. Contribute to the collective knowledge and let's build a thriving community around cloud service equivalencies! 🚀
 
 
-
 ## Compute:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-| EC2 (Elastic Compute Cloud) | [AWS Compute Services Documentation](https://docs.aws.amazon.com/compute/) | Compute Engine| [Google Cloud Compute Documentation](https://cloud.google.com/compute/docs/) | Virtual Machines | [Azure Compute Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/)
+| EC2 (Elastic Compute Cloud) | [AWS Compute Services Documentation](https://docs.aws.amazon.com/ec2/) | Compute Engine| [Google Cloud Compute Documentation](https://cloud.google.com/compute/docs/) | Virtual Machines | [Azure Compute Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 
 ## Storage:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|S3 (Simple Storage Service) || Cloud Storage | |Azure Blob Storage| 
+|S3 (Simple Storage Service) |[AWS S3 Documentation](https://docs.aws.amazon.com/s3/)| Cloud Storage | |Azure Blob Storage| 
 
 ## Databases:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|RDS (Relational Database Service) |  |Cloud SQL | | Azure SQL Database|
+|RDS (Relational Database Service) |[AWS RDS Documentation](https://docs.aws.amazon.com/rds/)| Cloud SQL | | Azure SQL Database|
 
 ## Networking:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-| VPC (Virtual Private Cloud)|  | VPC (Virtual Private Cloud)| |Virtual Network|
+| VPC (Virtual Private Cloud)| [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)| VPC (Virtual Private Cloud)| |Virtual Network|
 
 ## Security:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-| |  | | | |
+|Identity Access Managment (IAM) |[AWS IAM Documentation](https://docs.aws.amazon.com/iam/)  | | | |
 
 ## Management & Monitoring:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|CloudWatch |  |Stackdriver Monitoring | |Azure Monitor |
+|CloudWatch |[AWS Cloudwatch Documentation](https://docs.aws.amazon.com/cloudwatch/) |Stackdriver Monitoring | |Azure Monitor |
 
 ## Machine Learning:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|SageMaker |  |AI Platform | |Azure Machine Learning |
+|SageMaker |[AWS Sagemaker Documentation](https://docs.aws.amazon.com/sagemaker/)  |AI Platform | |Azure Machine Learning |
 
