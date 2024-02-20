@@ -21,35 +21,35 @@ Stay up-to-date with the latest services, features, and documentation, making yo
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|S3 (Simple Storage Service) |[AWS S3 Documentation](https://docs.aws.amazon.com/s3/)| Cloud Storage | |Azure Blob Storage| 
+|S3 (Simple Storage Service) |[AWS S3 Documentation](https://docs.aws.amazon.com/s3/)| Cloud Storage| [GCP Cloud Storage Documentation](https://cloud.google.com/storage/docs)|Azure Blob Storage| 
 
 ## Databases:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|RDS (Relational Database Service) |[AWS RDS Documentation](https://docs.aws.amazon.com/rds/)| Cloud SQL | | Azure SQL Database|
+|RDS (Relational Database Service) |[AWS RDS Documentation](https://docs.aws.amazon.com/rds/)| Cloud SQL |[Cloud SQL Documentation](https://cloud.google.com/sql/docs) | Azure SQL Database|
 
 ## Networking:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-| VPC (Virtual Private Cloud)| [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)| VPC (Virtual Private Cloud)| |Virtual Network|
+| VPC (Virtual Private Cloud)| [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)| VPC (Virtual Private Cloud)| [GCP VPC Documentation](https://cloud.google.com/vpc/docs/overview)|Virtual Network|
 
 ## Security:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|Identity Access Managment (IAM) |[AWS IAM Documentation](https://docs.aws.amazon.com/iam/)  | | | |
+|Identity Access Managment (IAM) |[AWS IAM Documentation](https://docs.aws.amazon.com/iam/)  |[GCP IAM](https://cloud.google.com/iam/docs/overview) | | |
 
 ## Management & Monitoring:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|CloudWatch |[AWS Cloudwatch Documentation](https://docs.aws.amazon.com/cloudwatch/) |Stackdriver Monitoring | |Azure Monitor |
+|CloudWatch |[AWS Cloudwatch Documentation](https://docs.aws.amazon.com/cloudwatch/) |Stackdriver Monitoring| [GCP Stackdriver Docucumentation](https://cloud.google.com/stackdriver/docs) |Azure Monitor |
 
 ## Machine Learning:
 
 | AWS | Documentation Link | GCP | Documentation Link | Azure | Doumentation Link |
 |-----|--------------------|----|---------------------|------|-------
-|SageMaker |[AWS Sagemaker Documentation](https://docs.aws.amazon.com/sagemaker/)  |AI Platform | |Azure Machine Learning |
+|SageMaker |[AWS Sagemaker Documentation](https://docs.aws.amazon.com/sagemaker/)  |AI Platform |[GCP AI Platform Documentation](https://cloud.google.com/ai-platform/pipelines/docs/set-up-ml-pipelines) |Azure Machine Learning |
 
